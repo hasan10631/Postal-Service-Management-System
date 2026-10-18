@@ -254,5 +254,5 @@ These items are suggested improvements, not features claimed to be complete in t
 
 GitHub: Postal Service Management System
 Developed collaboratively as an academic group project for the Data Structures and Algorithms module at SLTC Research University.
-Tags
-Java DataStructures Algorithms IntelliJIDEA GitHub SoftwareDevelopment GroupProject SLTC
+
+#Java #DataStructures #Algorithms #IntelliJIDEA #GitHub #SoftwareDevelopment #GroupProject
