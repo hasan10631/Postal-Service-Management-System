@@ -156,24 +156,43 @@ The current source files use standard Java classes and do not require a third-pa
 
 Postal-Service-Management-System/
 ├── src/
+
 │   ├── Main.java
+
 │   ├── PostalServiceSystem.java
+
 │   ├── PackageItem.java
+
 │   ├── PackageLinkedList.java
+
 │   ├── DispatchQueue.java
+
 │   ├── UndoStack.java
+
 │   ├── PostalHashTable.java
+
 │   ├── PostalCodeSet.java
+
 │   ├── PackageBST.java
+
 │   ├── PackageAVL.java
+
 │   ├── PostalGraph.java
+
 │   ├── BubbleSort.java
+
 │   ├── SelectionSort.java
+
 │   ├── InsertionSort.java
+
 │   ├── MergeSort.java
+
 │   └── QuickSort.java
+
 ├── .gitignore
+
 ├── postelservice.iml
+
 └── README.md
 
 Source File Descriptions
