@@ -120,8 +120,9 @@ Tree Operations
 - Application Type: Console-based Java application
 The current source files use standard Java classes and do not require a third-party library for the described core functionality.
 📁 Project Structure
-Postal-Service-Management-System/
 
+
+Postal-Service-Management-System/
 ├── src/
 │   ├── Main.java
 │   ├── PostalServiceSystem.java
@@ -142,6 +143,7 @@ Postal-Service-Management-System/
 ├── .gitignore
 ├── postelservice.iml
 └── README.md
+
 Source File Descriptions
 File	Responsibility
 Main.java	Application entry point.
